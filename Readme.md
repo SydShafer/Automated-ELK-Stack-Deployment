@@ -95,7 +95,7 @@ In order to use the playbook, you will need to have an Ansible control node alre
 
 SSH into the control node and follow the steps below:
 - Copy the playbook file to the Ansible control node.
-- Update the f`ilebeat-config.yml` file to include the IP address of the ELK server and create a `hosts` file to specify the VMs on which each playbook is run.
+- Update the `filebeat-config.yml` file to include the IP address of the ELK server and create a `hosts` file to specify the VMs on which each playbook is run.
 - Run the playbook, and navigate to port 5601 at address of your ELK server to check that the installation worked as expected (In the diagramed example, this would be `10.1.0.4:5601`)
 
 
