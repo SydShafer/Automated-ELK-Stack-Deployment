@@ -72,7 +72,7 @@ The playbook implements the following tasks:
 The following screenshot displays the Kibana dashboard after the ELK server has been successfully configured and is receiving logs
 
 
-![Successful ELK Server Configuration](Images/ELK-server-receiving-logs.png)
+![Successful ELK Server Configuration](Images/ELK-server-receiving-logs.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
